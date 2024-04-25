@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyAppSubmission</string>
+
+    <string name="makanan_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">list</string>
+    <string name="grid">grid</string>
+    <string name="search">Search</string>
+    <string name="data_received">Data Received</string>
+
+    <string-array name="data_name">
+        <item>Mie Aceh</item>
+        <item>Bika Ambon</item>
+        <item>Rendang</item>
+        <item>Pempek</item>
+        <item>Kerak Telor</item>
+        <item>Karedok</item>
+        <item>Lumpia</item>
+        <item>Gudeg</item>
+        <item>Ayam Betutu</item>
+        <item>Ayam Taliwang</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Mie Aceh, hidangan khas Aceh, merupakan perpaduan unik dari mie kuning tebal, berbagai rempah-rempah, serta potongan daging dan seafood seperti udang atau kepiting.</item>
+        <item>Bika Ambon, sejatinya berasal dari Sumatera Utara dan bukanlah dari Ambon, terutama dikenal di Kota Medan. Kue lembut dan legit ini, dengan kekhasan warna kuningnya, memiliki sejarah panjang di masyarakat Medan.</item>
+        <item>Rendang, hidangan khas Sumatera Barat yang terbuat dari daging sapi, santan, dan rempah-rempah yang dimasak dalam waktu lama.</item>
+        <item>Pempek, hidangan khas Palembang, menghadirkan harmoni rasa dari olahan ikan segar dan tepung sagu.</item>
+        <item>Kerak Telor, hidangan khas Betawi, terdiri dari beras ketan, telur ayam/bebek, ebi, bawang goreng, dan kelapa sangrai.</item>
+        <item>Karedok, makanan khas Jawa Barat, adalah perpaduan sayuran mentah seperti kacang panjang, tauge, kol, mentimun, dan daun kemangi yang disiram dengan saus kacang.</item>
+        <item>Lumpia, makanan khas Semarang, sering dijadikan oleh-oleh dengan isian bervariasi seperti ayam, telur ikan, sayur, dan udang.</item>
+        <item>Gudeg, kuliner khas Jogja, merupakan olahan nangka muda yang dimasak dengan santan. Disajikan dengan lauk seperti ayam, telur, tahu/tempe bacem, dan sambel goreng krecek.</item>
+        <item>Ayam Betutu, makanan khas Bali, menggambarkan kekayaan kuliner pulau dewata. Terbuat dari ayam yang diolah dengan bumbu betutu.</item>
+        <item>Ayam Taliwang, olahan ayam pedas khas Lombok. Disajikan bersama nasi hangat dan plecing kangkung, Ayam Taliwang menjadi hidangan yang menciptakan harmoni cita rasa pedas dan segar.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/mie_aceh</item>
+        <item>@drawable/bika_ambon</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/kerak_telor</item>
+        <item>@drawable/karedok</item>
+        <item>@drawable/lumpia</item>
+        <item>@drawable/gudeg</item>
+        <item>@drawable/ayam_betutu</item>
+        <item>@drawable/ayam_taliwang</item>
+    </integer-array>
+
+</resources>
